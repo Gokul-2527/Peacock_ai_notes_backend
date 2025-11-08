@@ -41,7 +41,7 @@ It provides user authentication, note management, and AI-powered features like s
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/ai-notes-app-backend.git
+git clone https://github.com/yourusername/Peacock_ai_notes_backend.git
 cd Peacock_ai_notes_backend/server
 
 2. Install dependencies:
